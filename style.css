@@ -1,0 +1,46 @@
+.section-1 {
+  display: flex;
+}
+.content-heading {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Zen Antique Soft", serif;
+  font-size: 50px;
+  margin-top: 100px;
+  border-left: #ff6600 5px solid;
+}
+.span-1 {
+  color: #3366cc;
+}
+.my-goal {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Zen Antique Soft", serif;
+  font-size: 17px;
+  text-align: justify;
+}
+button {
+  padding: 10px 50px;
+  background-color: violet;
+  border-radius: 9px;
+}
+.scroll-down {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Zen Antique Soft", serif;
+  font-size: 17px;
+}
+.img {
+  width: 60%;
+  padding-left: 80px;
+}
+.section-1-div {
+  margin-left: 100px;
+}
+.mission-2022 {
+  text-align: center;
+  font-size: 40px;
+}
+.span-2 {
+  color: #3366cc;
+}
