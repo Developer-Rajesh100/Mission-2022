@@ -44,3 +44,34 @@ button {
 .span-2 {
   color: #3366cc;
 }
+.section-2 {
+  display: flex;
+}
+.miss {
+  background-color: #999966;
+  border-radius: 10px;
+  width: 25%;
+  margin-left: 90px;
+  border-image: liner;
+  padding: 15px;
+  text-align: justify;
+}
+.viss {
+  background-color: #cccc33;
+  border-radius: 10px;
+  width: 25%;
+  margin-left: 30px;
+  padding: 15px;
+  text-align: justify;
+}
+.goal {
+  background-color: #ff9900;
+  border-radius: 10px;
+  width: 25%;
+  margin-left: 30px;
+  padding: 15px;
+  text-align: justify;
+}
+.icon {
+  width: 60%;
+}
