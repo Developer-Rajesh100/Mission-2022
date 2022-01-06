@@ -8,6 +8,7 @@
   font-size: 50px;
   margin-top: 100px;
   border-left: #ff6600 5px solid;
+  padding-left: 8px;
 }
 .span-1 {
   color: #3366cc;
@@ -20,9 +21,11 @@
   text-align: justify;
 }
 button {
-  padding: 10px 50px;
+  padding: 10px 35px;
   background-color: violet;
+  border-color: violet;
   border-radius: 9px;
+  font-size: 15px;
 }
 .scroll-down {
   font-family: "Be Vietnam Pro", sans-serif;
@@ -74,4 +77,90 @@ button {
 }
 .icon {
   width: 60%;
+}
+.section-3 {
+  display: flex;
+}
+.section-3-img {
+  width: 80%;
+}
+.section-2-heading {
+  font-size: 35px;
+}
+.limits {
+  color: #f18a42;
+}
+.production {
+  width: 80%;
+  text-align: justify;
+  font-size: 17px;
+}
+.section-4 {
+  display: flex;
+}
+.global-community {
+  font-size: 35px;
+}
+.section-4-span {
+  color: #f18a42;
+}
+.section-4-img {
+  width: 80%;
+  margin-left: 100px;
+}
+.section-4-first-div {
+  width: 70%;
+  margin-left: 100px;
+}
+.section-4-para {
+  text-align: justify;
+  font-size: 17px;
+}
+.social-media {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Zen Antique Soft", serif;
+  text-align: center;
+  font-size: 40px;
+}
+.span-social-media {
+  color: #3366cc;
+}
+.section-5 {
+  display: flex;
+}
+.application {
+  width: 40%;
+  margin-left: 250px;
+  border-radius: 20px;
+}
+
+.application-details {
+  width: 70%;
+  margin-right: 250px;
+}
+.application-details-h1 {
+  font-size: 40px;
+}
+.application-details-span {
+  color: #f18a42;
+}
+.application-details-p {
+  font-size: 18px;
+}
+.footer {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-family: "Zen Antique Soft", serif;
+  text-align: center;
+  color: red;
+  background-color: black;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+.footer-h1 {
+  color: white;
+}
+.footer-p {
+  color: white;
 }
